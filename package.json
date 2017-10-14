@@ -1,0 +1,19 @@
+{
+  "name": "bring-my-old-photos-to-digital",
+  "version": "0.0.0",
+  "description": "A bridge between worlds ink and digit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imvanzen/bring-my-old-photos-to-digital.git"
+  },
+  "author": "Jakub Reczko <@imvanzen>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imvanzen/bring-my-old-photos-to-digital/issues"
+  },
+  "homepage": "https://github.com/imvanzen/bring-my-old-photos-to-digital#readme"
+}
